@@ -22,6 +22,7 @@ Here are the publicly available instances:
 | India | [in.heatblock.esb.is-a.dev](https://in.heatblock.esb.is-a.dev) | Vercel |
 | Germany | [de.heatblock.esb.is-a.dev](https://de.heatblock.esb.is-a.dev) | Render |
 | France | [heatblock.skyexplorewt.xyz](https://heatblock.skyexplorewt.xyz) | Self-hosted by [@SkyExploreWasTaken](https://github.com/SkyExploreWasTaken) |
+| Japan | [heatblock.krnk.org](https://heatblock.krnk.org) | Self-hosted by [KuronekoServer](https://krnk.org) |
 
 ## Self-Hosting
 
